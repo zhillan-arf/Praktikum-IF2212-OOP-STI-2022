@@ -1,2 +1,2 @@
-# Praktikum IF2212 OOP STI 2022
- Untuk anak cucu zhillan: skill kalian akan irelevan dalam 5 tahun
+![ene](https://i.imgur.com/YMbbBaJ.jpg)
+This private repository is for the personal use of the only zhillan in this world.
